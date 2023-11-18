@@ -4,7 +4,9 @@ Repo for Missoula class
 Index of resources:
 
 Serial Terminal:
+
 https://serial.huhn.me/
+
 https://nugget.dev/serial
 
 Flashing (Chrome, Edge):
