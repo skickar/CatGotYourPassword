@@ -1,11 +1,11 @@
 # CatGotYourPassword
 
-
+```
  _._     _,-'""`-._
 (,-.`._,'(       |\`-/|
     `-.-' \ )-`( , o o)
           `-    \`_`"'-
-
+```
 
 Repo for Missoula Wi-Fi self defense class
 
