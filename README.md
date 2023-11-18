@@ -1,7 +1,16 @@
 # CatGotYourPassword
-Repo for Missoula class
+        _..---...,""-._     ,/}/)
+     .''        ,      ``..'(/-<
+    /   _      {      )         \
+   ;   _ `.     `.   <         a(
+ ,'   ( \  )      `.  \ __.._ .: y
+(  <\_-) )'-.____...\  `._   //-'
+ `. `-' /-._)))      `-._)))
+   `...'         hjw
+Repo for Missoula Wi-Fi self defense class
 
-Index of resources:
+**Index of resources:
+**
 
 Serial Terminal:
 
